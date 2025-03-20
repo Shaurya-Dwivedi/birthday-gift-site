@@ -30,7 +30,6 @@ h1,h2,h4,h3,p {
     border-radius:4px;
 }
 #header{
-    border: dotted black 1px;
     display: flex;
     flex-direction:column;
     justify-content: space-between;
